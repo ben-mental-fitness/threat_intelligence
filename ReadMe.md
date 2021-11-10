@@ -1,6 +1,9 @@
 # Threat Research
 
-## Files
+## Trickbot
+- Trickbot.md: Threat report.
+- Trickbot_lab.pdf: Practical lab specification.
+- Trickbot_crisis.pdf: Cyber crisis specification.
 
 ## Tools & Resources
 |Source|Notes|
